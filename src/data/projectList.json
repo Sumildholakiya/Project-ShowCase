@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "Tazza Website",
+    "category": "frontend",
+    "description": "Personal portfolio built using React.",
+    "image": "/images/portfolio.svg",
+    "link": "https://yourportfolio.com"
+  }
+]
