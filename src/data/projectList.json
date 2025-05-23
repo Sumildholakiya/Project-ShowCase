@@ -1,10 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Tazza Website",
+    "title": "Organic Farm Food",
     "category": "frontend",
-    "description": "Personal portfolio built using React.",
-    "image": "/images/portfolio.svg",
-    "link": "https://yourportfolio.com"
+    "description": "Organic Farm Food is a website for fresh farm products with a clean UI and smooth navigation, built using HTML, CSS, JavaScript, and Bootstrap.",
+    "image": "/images//organicfarm.png",
+    "link": "https://sd-organicfarm.netlify.app/"
+  },
+  {
+    "id": 2,
+    "title": "Blog Sphere",
+    "category": "fullstack",
+    "description": "BlogSphere is a full-stack blogging website built with React, Express.js, MongoDB, and Tailwind CSS, featuring a clean UI, smooth animations, and seamless blog management.",
+    "image": "/images//blogsphere.png",
+    "link": "https://blog-sphere-rho.vercel.app/"
+  },
+  {
+    "id": 3,
+    "title": "BroCode Agency",
+    "category": "frontend",
+    "description": "BroCode Agency is a responsive website built using HTML, CSS, and JavaScript, offering a modern and user-friendly interface for various services and products.",
+    "image": "/images//agency.png",
+    "link": "https://sd-agency.netlify.app/"
   }
 ]
