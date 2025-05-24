@@ -22,5 +22,53 @@
     "description": "BroCode Agency is a responsive website built using HTML, CSS, and JavaScript, offering a modern and user-friendly interface for various services and products.",
     "image": "/images//agency.png",
     "link": "https://sd-agency.netlify.app/"
+  },
+  {
+    "id": 4,
+    "title": "ShopEase",
+    "category": "frontend",
+    "description": "ShopEase is a sleek and responsive e-commerce website built with HTML, CSS, and JavaScript. It provides a seamless shopping experience with modern UI components and intuitive navigation.",
+    "image": "/images/shopease.png",
+    "link": "https://sd-shopease.netlify.app/"
+  },
+  {
+    "id": 5,
+    "title": "Portfolio",
+    "category": "frontend",
+    "description": "My portfolio website showcases my skills, projects, and experience in web development. It features a modern design, smooth animations, and responsive layout.",
+    "image": "/images/portfolio.png",
+    "link": "https://sd-port-folio.netlify.app/"
+  },
+  {
+    "id": 6,
+    "title": "Mehndi Artist Portfolio",
+    "category": "frontend",
+    "description": "A beautifully designed personal portfolio website for a Mehndi artist, showcasing services, gallery, and contact information. Built using HTML, CSS, and JavaScript with a focus on aesthetic visuals and responsiveness.",
+    "image": "/images/mehndi-portfolio.png",
+    "link": "https://sd-mehndi-portfolio.netlify.app/"
+  },
+  {
+    "id": 7,
+    "title": "Smart Calculator",
+    "category": "frontend",
+    "description": "Smart Calculator is a responsive and functional web calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations and features a clean, modern UI.",
+    "image": "/images/calculator.png",
+    "link": "https://sd-calculate.netlify.app/"
+  },
+  {
+    "id": 8,
+    "title": "Stone Paper Scissors",
+    "category": "frontend",
+    "description": "A fun and interactive Stone-Paper-Scissors game built using HTML, CSS, and JavaScript. It allows users to play against the computer with real-time scoring and smooth UI animations.",
+    "image": "/images/stone-paper.png",
+    "link": "https://sd-stone-paper.netlify.app/"
+  },
+  {
+    "id": 9,
+    "title": "Tic Tac Toe",
+    "category": "frontend",
+    "description": "Tic Tac Toe is a classic 2-player game developed using HTML, CSS, and JavaScript. The project includes turn-based logic, win detection, and a simple, responsive layout.",
+    "image": "/images/tictac.png",
+    "link": "https://sd-tictac.netlify.app/"
   }
 ]
